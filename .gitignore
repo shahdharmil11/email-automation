@@ -1,0 +1,8 @@
+out/
+state.db
+.env
+accounts/*.json
+resume/generated/
+__pycache__/
+*.pyc
+.venv/
